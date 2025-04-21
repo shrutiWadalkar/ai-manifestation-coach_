@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+llama-index
+chromadb
+pypdf
+pytesseract
+unstructured
+polars

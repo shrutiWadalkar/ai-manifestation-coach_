@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.40.0
+llama-index>=0.9.0
+chromadb>=0.4.0
+fastapi>=0.95.0
+uvicorn>=0.22.0
+sentence-transformers>=2.2.2
+polars>=0.18.0  # Alternative to Spark for smaller datasets
+llama-index-core>=0.10.0
+llama-index-llms-huggingface>=0.1.0
+llama-index-vector-stores-chroma>=0.1.0
+transformers>=4.30.0
+chromadb>=0.4.0

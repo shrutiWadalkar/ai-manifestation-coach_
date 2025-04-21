@@ -1,0 +1,7 @@
+README.md
+setup.py
+manifestation_coach.egg-info/PKG-INFO
+manifestation_coach.egg-info/SOURCES.txt
+manifestation_coach.egg-info/dependency_links.txt
+manifestation_coach.egg-info/requires.txt
+manifestation_coach.egg-info/top_level.txt
